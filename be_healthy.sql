@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : jeu. 05 nov. 2026 à 11:34
+-- Généré le : jeu. 05 nov. 2026 à 12:33
 -- Version du serveur : 8.4.7
 -- Version de PHP : 8.3.28
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Base de données : `be_healthy`
 --
-CREATE DATABASE IF NOT EXISTS `be_healthy` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE `be_healthy`;
 
 -- --------------------------------------------------------
 
